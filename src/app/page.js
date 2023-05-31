@@ -15,7 +15,7 @@ export default function Home() {
         />
       </div>
       <div>
-        <h2 class="flex place-items-center text-center text-lg font-semibold leading-8 text-gray-900 pt-7">Launching soon..</h2>
+        <h2 className="flex place-items-center text-center text-lg font-semibold leading-8 text-gray-900 pt-7">Launching soon..</h2>
       </div>
     </main>
     </>
